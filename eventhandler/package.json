@@ -1,0 +1,8 @@
+{
+    "urls": [
+      ["eventhandler/__init__.py", "github:SMARTAUTOMATICA-LLC/eventhandler/eventhandler/eventhandler/__init__.py"],
+    ],
+    "deps": [
+    ],
+    "version": "0.1"
+  }
